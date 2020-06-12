@@ -1,0 +1,1 @@
+# An array is a collection of values while a hash is a collection of key-value pairs.
